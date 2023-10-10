@@ -1,0 +1,20 @@
+Funcionalidades Obrigadtórias: 
+    
+    ☐ Cotação de 4 Moedas em Tempo Real
+    ☐ Fuso horário das principais capitais do mundo
+    ☐ Exivição de notícias do mundo econômico
+    ☐ Layout responsivoo
+    ☐ HTML semântico
+
+
+Funcionalidades Opcionais:
+
+    ☐ Idioma do site se adaptar
+    ☐ Possibilidade de o usuário reordenar a lista de moedas (não obrigadtório)
+
+
+    Anotações:
+
+        ☐ Bootsstrap
+        ☐ Conectar com API de cotação de moedas
+        ☐ Conectar com API de cotação de notícias
